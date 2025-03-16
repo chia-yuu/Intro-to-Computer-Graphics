@@ -1,0 +1,7 @@
+{
+    "files.associations": {
+        "xstring": "cpp",
+        "iostream": "cpp"
+    },
+    "C_Cpp.default.compilerPath": "C:\\w64devkit\\bin\\g++.exe"
+}
